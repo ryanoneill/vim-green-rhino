@@ -5,6 +5,9 @@ if exists("syntax_on")
 endif
 let g:colors_name = "greenrhino"
 
+hi TabLineFill  ctermfg=NONE ctermbg=23   cterm=NONE
+hi TabLine      ctermfg=231  ctermbg=23   cterm=NONE
+hi TabLineSel   ctermfg=14   ctermbg=23   cterm=NONE
 " -------------------------------------------------
 hi Visual       ctermfg=14   ctermbg=23   cterm=NONE
 hi Pmenu        ctermfg=14   ctermbg=23   cterm=NONE
