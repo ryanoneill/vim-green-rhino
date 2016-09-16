@@ -53,8 +53,8 @@ hi TODO         ctermfg=198  ctermbg=NONE cterm=NONE
 hi StatusLine   ctermfg=231  ctermbg=23   cterm=NONE
 hi StatusLineNC ctermfg=231  ctermbg=238  cterm=NONE
 " -------------------------------------------------
-hi IncSearch    ctermfg=235  ctermbg=208  cterm=NONE
-hi Search       ctermfg=235  ctermbg=208  cterm=NONE
+hi IncSearch    ctermfg=254  ctermbg=23   cterm=NONE
+hi Search       ctermfg=254  ctermbg=23   cterm=NONE
 hi PmenuSbar    ctermfg=235  ctermbg=235  cterm=NONE
 hi PmenuThumb   ctermfg=235  ctermbg=235  cterm=NONE
 " ------------------------------------------------
