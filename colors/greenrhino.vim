@@ -71,4 +71,4 @@ hi Normal       ctermfg=254  ctermbg=NONE cterm=NONE
 hi CursorLine   ctermfg=NONE ctermbg=236  cterm=NONE
 hi CursorColumn ctermfg=NONE ctermbg=236  cterm=NONE
 hi ColorColumn  ctermfg=NONE ctermbg=237  cterm=NONE
-hi SignColumn   ctermfg=NONE ctermbg=234  cterm=NONE
+hi SignColumn   ctermfg=NONE ctermbg=NONE  cterm=NONE
